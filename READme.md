@@ -9,3 +9,5 @@ Features:
 Added recently:
 
 - Pythagorean Win Percentage ( exp = 1.83, 2.85 )
+- Caught Stealing Percentage
+- Batting Average ( BA )
