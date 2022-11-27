@@ -20,10 +20,11 @@ Added recently:
 ![](https://github.com/ShaliniR8/lahman-mlb/blob/main/images/fig4.jpg?raw=true)
 ![](https://github.com/ShaliniR8/lahman-mlb/blob/main/images/fig5.jpg?raw=true)
 
+-- Constructed Features 
+![](https://github.com/ShaliniR8/lahman-mlb/blob/main/images/fig6.png?raw=true)
 
 ### XGBoostRegressor Test result visualizations and shap plots
 
-![](https://github.com/ShaliniR8/lahman-mlb/blob/main/images/fig6.png?raw=true)
 ![](https://github.com/ShaliniR8/lahman-mlb/blob/main/images/fig7.png?raw=true)
 ![](https://github.com/ShaliniR8/lahman-mlb/blob/main/images/fig8.png?raw=true)
 ![](https://github.com/ShaliniR8/lahman-mlb/blob/main/images/fig9.png?raw=true)
