@@ -2,6 +2,8 @@
 
 The problem that we plan to explore involves predicting win likelihood in baseball. To do so, we plan to use data from the Lahman dataset which provides data on player and team performance since the 1800s. This problem is fairly broad and can therefore be approached from a few different angles. For instance, we could attempt to predict which of two teams is likely to win in any given matchup. In another case, we could extrapolate team data in an effort to predict the chances each team has of securing a spot in the playoffs. Going further, we could attempt to predict the winner of the World Series outright. This problem has the potential to make a substantial impact within the domain of baseball. In particular, this could result in a better understanding of which elements of a team (e.g. pitching, outfield, offense, etc.) contribute more to win likelihood, which could provide valuable insight for franchise owners trying to build winning teams with limited resources. This analysis will likely require a breakdown between team and player performance, as well as a granular understanding of the impact of defense, offense, and pitching.
 
+baseballdatabank_2022.zip is the original dataset we worked from. The EDA notebooks folder contains notebooks that show the steps of our EDA. combined_features.ipynb is a notebook going through some basic EDA, the feature generation process, preprocessing steps, and basic models. b_features, p_features, and t_features are respectively the batting features, pitching features, and team features. features.csv and targets.csv contain the preprocessed data we trained our models with. Models.ipynb contains the rest of our models. 
+
 
 Features: 
 
