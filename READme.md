@@ -1,5 +1,5 @@
 # MLB
-baseballdatabank_2022.zip is the original dataset we worked from. The EDA notebooks folder contains notebooks that show the steps of our EDA. combined_features.ipynb is a notebook going through some basic EDA, the feature generation process, preprocessing steps, and XGboost regression model. b_features, p_features, and t_features are respectively the batting features, pitching features, and team features. features.csv and targets.csv contain the preprocessed data we trained our models with. Models.ipynb contains the rest of our models. 
+baseballdatabank_2022.zip is the original dataset we worked from. The EDA notebooks folder contains notebooks that show the steps of our EDA. combined_features.ipynb is a notebook going through some basic EDA, the feature generation process, preprocessing steps, and XGboost regression model along with it's results. b_features, p_features, and t_features are respectively the batting features, pitching features, and team features. features.csv and targets.csv contain the preprocessed data we trained our models with. Models.ipynb contains the rest of our models. 
 
 
 
